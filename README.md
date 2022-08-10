@@ -17,3 +17,5 @@ In this project, there are two main M-files to execute supervised object recogni
 - `CreateBoW.m`: In this file, the path of training image set can be inputted then the bog of word will be saved as mat file.
 
 - `Classification.m`: In this file, the path of testing iamge set can be inputted, then the predicted classes of these testing images will be infered.
+
+![overview](overview.png)
